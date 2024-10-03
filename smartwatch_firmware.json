@@ -1,0 +1,9 @@
+{
+  "firmware": [
+    {
+      "version": "0.0.22",
+      "file": "CLIENTE_BLYNK.ino.bin",
+      "url":  "https://raw.githubusercontent.com/Boleruam/VUMETRO/main/vumetro_12F.ino.bin"      
+    }  
+  ]
+}
